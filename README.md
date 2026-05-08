@@ -184,19 +184,6 @@ emotion-aware-medical-chatbot/
 
 ---
 
-## 📸 Screenshots
-
-> *(Add screenshots here — see report Section 5 for recommended captures)*
-
-| Feature | Screenshot |
-|---------|-----------|
-| Chat interface | `assets/screenshots/chat.png` |
-| Emotion bar chart | `assets/screenshots/emotion_chart.png` |
-| Knowledge graph | `assets/screenshots/knowledge_graph.png` |
-| Multilingual input | `assets/screenshots/multilingual.png` |
-
----
-
 ## 🔭 Future Scope
 
 - [ ] Replace heuristic rules with a full **LLM backend** (e.g. BioMedLM, MedPaLM)
@@ -208,13 +195,12 @@ emotion-aware-medical-chatbot/
 
 ---
 
-## 👥 Authors
+## 👥 Author
 
 | Name | ID |
 |------|----|
 | Noel Cleetus | 2022A7PS0906U |
-| Gourisankar Sajith | 2022A7PS0287U |
-| Aarabhi Rakendu | 2022A7PS0138U |
+
 
 ---
 
