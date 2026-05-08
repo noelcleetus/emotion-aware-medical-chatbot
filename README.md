@@ -195,7 +195,7 @@ emotion-aware-medical-chatbot/
 
 ---
 
-## 👥 Author
+## 👤 Author
 
 | Name | ID |
 |------|----|
